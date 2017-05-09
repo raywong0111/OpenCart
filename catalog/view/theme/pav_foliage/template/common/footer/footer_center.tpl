@@ -3,8 +3,11 @@
     <div class="main-footer">
       	<div class="row">
                 <div class="column col-lg-12 col-md-12 col-sm-12 col-xs-12">
+					<div class="pav-newsletter panel-heading text-center">
+						<h4>Follow us on:</h4>
+					</div>
                     <?php
-                        echo $helper->renderModule('pavnewsletter');
+                        //echo $helper->renderModule('pavnewsletter');
                     ?>
                 </div>
                 <div class="column text-center social col-lg-12 col-md-12 col-sm-12 col-xs-12">

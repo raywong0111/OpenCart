@@ -9766,7 +9766,7 @@ div.required .control-label:before {
 .feature-box {
   color: #FFFFFF;
   font-size: 14px;
-  padding: 52px 90px;
+  padding: 52px 20px;
   height: 300px;
 }
 /* line 696, ../sass/_layout.scss */
@@ -10220,13 +10220,13 @@ div.required .control-label:before {
 /* Footer v1 */
 /* line 1048, ../sass/_layout.scss */
 .footer-v1 {
-  height: 626px;
-  background: url("../image/bg-footer.jpg") no-repeat;
+  /* height: 626px; */
+  background: url("../image/footer.png") no-repeat;
 }
 /* line 1051, ../sass/_layout.scss */
 .footer-v1 .footer-center .main-footer {
-  padding-top: 120px;
-  padding-bottom: 118px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   border-bottom: 1px solid #636a74;
 }
 /* line 1057, ../sass/_layout.scss */
