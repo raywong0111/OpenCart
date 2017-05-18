@@ -24,7 +24,7 @@
     			</ul>
 			</div>
 			<div class="space-top-25 col-lg-6 col-md-6 col-sm-6 col-xs-12 text-right copyright">
-				<img src="image/catalog/logo.png" alt="" />
+				<img src="image/catalog/logo-footer.png" alt="" />
 				<p>
 					<?php if( $helper->getConfig('enable_custom_copyright', 0) ) { ?>
 						<?php echo html_entity_decode($helper->getConfig('copyright')); ?>
