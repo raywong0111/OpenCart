@@ -110,7 +110,7 @@
                                                     <?php echo $telephone; ?>
                                                 </div>
                                             </div>
-                                            <div class="media">
+                                            <!--<div class="media">
                                                 <div class="media-icon pull-left">
                                                     <i class="fa fa-fax"></i>
                                                 </div>
@@ -118,7 +118,7 @@
                                                     <h4 class="media-heading panel-title"><?php echo $text_fax; ?></h4>
                                                     <?php echo $fax; ?>
                                                 </div>
-                                            </div>
+                                            </div>-->
                                             <?php if ($open) { ?>
                                                 <div class="media">
                                                     <div class="media-icon pull-left">
